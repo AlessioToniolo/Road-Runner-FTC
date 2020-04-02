@@ -1,6 +1,10 @@
 # Road Runner Quickstart
 
-An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
+An example FTC project preset with everything you will need to get started with using [Road Runner](https://github.com/acmerobotics/road-runner). **Most of the api's are incubating!**
+
+### About this Repository
+
+This is a repository cloned from acme robotics' quickstart. In this repository you will find a little more beginner friendly documentation here and there to make things simpler in addition to opmodes that you can go ahead and use on your robot stress-free. 
 
 ## Installation
 
