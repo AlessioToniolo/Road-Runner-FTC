@@ -1,6 +1,7 @@
-# Road Runner Quickstart
+# Road Runner for FTC Quickerstart 
 
-An example FTC project preset with everything you will need to get started with using [Road Runner](https://github.com/acmerobotics/road-runner). **Most of the api's are incubating!**
+A field ready 
+FTC project preset with everything you will need to get started for using [Road Runner](https://github.com/acmerobotics/road-runner). **Most of the api's are incubating!**
 
 ### About this Repository
 
