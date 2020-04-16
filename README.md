@@ -11,7 +11,7 @@ This is a repository cloned from acme robotics' quickstart. In this repository y
 
 For more detailed instructions on getting Road Runner setup in your own project, see the [Road Runner README](https://github.com/acmerobotics/road-runner#core).
 
-1. Download or clone this repo with `git clone https://github.com/acmerobotics/road-runner-quickstart`.
+1. Download or clone this repo with `git clone https://github.com/AlessioToniolo/Road-Runner-FTC`.
 
 1. Open the project in Android Studio and build `TeamCode` like any other `ftc_app` project.
 
@@ -19,4 +19,4 @@ For more detailed instructions on getting Road Runner setup in your own project,
 
 ## Documentation
 
-Check out the new [online quickstart documentation](https://acme-robotics.gitbook.io/road-runner/quickstart).
+Check out the new [online quickstart documentation](https://acme-robotics.gitbook.io/road-runner/quickstart) from Acme Robotics.
